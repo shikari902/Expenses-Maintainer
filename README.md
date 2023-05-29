@@ -3,6 +3,6 @@
 
 This project is developed with "Create React App" bootstrapping.
 
-Step 1-
+How to run this project -
 Using command prompt go to the project directory, and use command-
-## npm start
+\\ npm start
